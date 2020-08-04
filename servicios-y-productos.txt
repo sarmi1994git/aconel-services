@@ -1,0 +1,38 @@
+[16:55, 16/6/2020] Miguel Trabajo: Automaticion y controles electronicos..
+[16:56, 16/6/2020] Miguel Trabajo: Mantenimiento preventivo de lavadoras industriales
+[16:57, 16/6/2020] Miguel Trabajo: -Procesos industriales.
+-Procesos hospitalarios.
+[16:58, 16/6/2020] Miguel Trabajo: Mantemiento correctivo de lavadoras industriales.
+[16:58, 16/6/2020] Miguel Trabajo: - Procesos Industriales.
+- Procesos Hospitalarios.
+[16:59, 16/6/2020] Miguel Trabajo: Instalacion de fluido de sistema de bombeo de agua.
+[17:00, 16/6/2020] Miguel Trabajo: Automatizacion de sistema de presion constante de agua.
+[17:00, 16/6/2020] Miguel Trabajo: Automatizacion de sistema de Bombas alternantes para suministro de agua.
+[17:01, 16/6/2020] Miguel Trabajo: Instalaciones Electricas Residenciales.
+[17:01, 16/6/2020] Miguel Trabajo: Instalaciones Electricas Industriales
+[17:02, 16/6/2020] Miguel Trabajo: Reparacion y mantenimiento de calderos
+[17:03, 16/6/2020] Jesús: ok
+[17:03, 16/6/2020] Miguel Trabajo: Eso solo es servivios
+[17:04, 16/6/2020] Miguel Trabajo: Mantenimiento preventivo de Secadoras industriales
+[17:04, 16/6/2020] Miguel Trabajo: -Procesos industriales.
+-Procesos hospitalarios.
+[17:04, 16/6/2020] Miguel Trabajo: Mantemiento correctivo de secadoras industriales.
+[17:04, 16/6/2020] Miguel Trabajo: -Procesos industriales.
+-Procesos hospitalarios.
+[17:04, 16/6/2020] Miguel Trabajo: Hasta ahiio..
+[17:05, 16/6/2020] Miguel Trabajo: Es servicio
+[17:05, 16/6/2020] Miguel Trabajo: Hay debe de ir otra ventana
+
+
+PRODUCTOS
+-LOGO! TD LOGO 8
+-LOGO 8 12/24 RCE Módulo lógico
+-PLC DELTA SERIE DVP-14SS2
+
+CATEGORIAS
+[15:53, 6/7/2020] Miguel Trabajo: Control y mando
+[15:53, 6/7/2020] Miguel Trabajo: Proteccion de motores
+[15:53, 6/7/2020] Miguel Trabajo: Seccionadores y breakers
+[15:53, 6/7/2020] Miguel Trabajo: Automatizacion
+[15:53, 6/7/2020] Miguel Trabajo: Sensores
+[15:54, 6/7/2020] Miguel Trabajo: Otros elementos.

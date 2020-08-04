@@ -1,0 +1,20 @@
+version: "3"
+services:
+  aconel-services:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: aconel-service/node:1.0
+    user: "node"
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=production
+    restart: always
+    container_name: aconel-services
+    volumes:
+      - ./src:/home/node/app/src
+    expose:
+      - "5000"
+    ports:
+      - "5000:5000"
+    command: "npm start"
